@@ -1,0 +1,2214 @@
+{
+  "core": {
+    "primitive": {
+      "red": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFEBEE"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FFCDD2"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#EF9A9A"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#E57373"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#EF5350"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#F44336"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#E53935"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#D32F2F"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#C62828"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#B71C1C"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FF8A80"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FF5252"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#FF1744"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#D50000"
+        }
+      },
+      "pink": {
+        "50": {
+          "$type": "color",
+          "$value": "#FCE4EC"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#F8BBD0"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#F48FB1"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#F06292"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#EC407A"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#E91E63"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#D81B60"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#C2185B"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#AD1457"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#880E4F"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FF80AB"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FF4081"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#F50057"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#C51162"
+        }
+      },
+      "purple": {
+        "50": {
+          "$type": "color",
+          "$value": "#F3E5F5"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#E1BEE7"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#CE93D8"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#BA68C8"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#AB47BC"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#9C27B0"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#8E24AA"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#7B1FA2"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#6A1B9A"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#4A148C"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#EA80FC"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#E040FB"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#D500F9"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#AA00FF"
+        }
+      },
+      "deepPurple": {
+        "50": {
+          "$type": "color",
+          "$value": "#EDE7F6"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#D1C4E9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#B39DDB"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#9575CD"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#7E57C2"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#673AB7"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#5E35B1"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#512DA8"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#4527A0"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#311B92"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#B388FF"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#7C4DFF"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#651FFF"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#6200EA"
+        }
+      },
+      "indigo": {
+        "50": {
+          "$type": "color",
+          "$value": "#E8EAF6"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C5CAE9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#9FA8DA"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#7986CB"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#5C6BC0"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#3F51B5"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#3949AB"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#303F9F"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#283593"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#1A237E"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#8C9EFF"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#536DFE"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#3D5AFE"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#304FFE"
+        }
+      },
+      "blue": {
+        "50": {
+          "$type": "color",
+          "$value": "#E3F2FD"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#BBDEFB"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#90CAF9"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#64B5F6"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#42A5F5"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#2196F3"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#1E88E5"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#1976D2"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#1565C0"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#0D47A1"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#82B1FF"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#448AFF"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#2979FF"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#2962FF"
+        }
+      },
+      "lightBlue": {
+        "50": {
+          "$type": "color",
+          "$value": "#E1F5FE"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#B3E5FC"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#81D4FA"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#4FC3F7"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#29B6F6"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#03A9F4"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#039BE5"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#0288D1"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#0277BD"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#01579B"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#80D8FF"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#40C4FF"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#00B0FF"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#0091EA"
+        }
+      },
+      "cyan": {
+        "50": {
+          "$type": "color",
+          "$value": "#E0F7FA"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#B2EBF2"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#80DEEA"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#4DD0E1"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#26C6DA"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#00BCD4"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#00ACC1"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#0097A7"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#00838F"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#006064"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#84FFFF"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#18FFFF"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#00E5FF"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#00B8D4"
+        }
+      },
+      "teal": {
+        "50": {
+          "$type": "color",
+          "$value": "#E0F2F1"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#B2DFDB"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#80CBC4"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#4DB6AC"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#26A69A"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#009688"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#00897B"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#00796B"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#00695C"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#004D40"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#A7FFEB"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#64FFDA"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#1DE9B6"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#00BFA5"
+        }
+      },
+      "green": {
+        "50": {
+          "$type": "color",
+          "$value": "#E8F5E9"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#C8E6C9"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#A5D6A7"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#81C784"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#66BB6A"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#4CAF50"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#43A047"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#388E3C"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#2E7D32"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#1B5E20"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#B9F6CA"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#69F0AE"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#00E676"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#00C853"
+        }
+      },
+      "lightGreen": {
+        "50": {
+          "$type": "color",
+          "$value": "#F1F8E9"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#DCEDC8"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#C5E1A5"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#AED581"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#9CCC65"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#8BC34A"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#7CB342"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#689F38"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#558B2F"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#33691E"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#CCFF90"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#B2FF59"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#76FF03"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#64DD17"
+        }
+      },
+      "lime": {
+        "50": {
+          "$type": "color",
+          "$value": "#F9FBE7"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#F0F4C3"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#E6EE9C"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#DCE775"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#D4E157"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#CDDC39"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#C0CA33"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#AFB42B"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#9E9D24"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#827717"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#F4FF81"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#EEFF41"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#C6FF00"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#AEEA00"
+        }
+      },
+      "yellow": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFFDE7"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FFF9C4"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FFF59D"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FFF176"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#FFEE58"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FFEB3B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#FDD835"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#FBC02D"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#F9A825"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#F57F17"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FFFF8D"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FFFF00"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#FFEA00"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#FFD600"
+        }
+      },
+      "amber": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFF8E1"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FFECB3"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FFE082"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FFD54F"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#FFCA28"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FFC107"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#FFB300"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#FFA000"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#FF8F00"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#FF6F00"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FFE57F"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FFD740"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#FFC400"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#FFAB00"
+        }
+      },
+      "orange": {
+        "50": {
+          "$type": "color",
+          "$value": "#FFF3E0"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FFE0B2"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FFCC80"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FFB74D"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#FFA726"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FF9800"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#FB8C00"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#F57C00"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#EF6C00"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#E65100"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FFD180"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FFAB40"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#FF9100"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#FF6D00"
+        }
+      },
+      "deepOrange": {
+        "50": {
+          "$type": "color",
+          "$value": "#FBE9E7"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#FFCCBC"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#FFAB91"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#FF8A65"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#FF7043"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#FF5722"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#F4511E"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#E64A19"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#D84315"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#BF360C"
+        },
+        "A100": {
+          "$type": "color",
+          "$value": "#FF9E80"
+        },
+        "A200": {
+          "$type": "color",
+          "$value": "#FF6E40"
+        },
+        "A400": {
+          "$type": "color",
+          "$value": "#FF3D00"
+        },
+        "A700": {
+          "$type": "color",
+          "$value": "#DD2C00"
+        }
+      },
+      "brown": {
+        "50": {
+          "$type": "color",
+          "$value": "#EFEBE9"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#D7CCC8"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#BCAAA4"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#A1887F"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#8D6E63"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#795548"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#6D4C41"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#5D4037"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#4E342E"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#3E2723"
+        }
+      },
+      "grey": {
+        "50": {
+          "$type": "color",
+          "$value": "#FAFAFA"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#F5F5F5"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#EEEEEE"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#E0E0E0"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#BDBDBD"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#9E9E9E"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#757575"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#616161"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#424242"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#212121"
+        }
+      },
+      "blueGrey": {
+        "50": {
+          "$type": "color",
+          "$value": "#ECEFF1"
+        },
+        "100": {
+          "$type": "color",
+          "$value": "#CFD8DC"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#B0BEC5"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#90A4AE"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#78909C"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#607D8B"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#546E7A"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#455A64"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#37474F"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#263238"
+        }
+      },
+      "black": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      }
+    },
+    "spacing": {
+      "none": {
+        "$type": "spacing",
+        "$value": "0"
+      },
+      "xxs": {
+        "$type": "spacing",
+        "$value": "4"
+      },
+      "xs": {
+        "$type": "spacing",
+        "$value": "8"
+      },
+      "sm": {
+        "$type": "spacing",
+        "$value": "12"
+      },
+      "md": {
+        "$type": "spacing",
+        "$value": "16"
+      },
+      "lg": {
+        "$type": "spacing",
+        "$value": "24"
+      },
+      "xl": {
+        "$type": "spacing",
+        "$value": "32"
+      },
+      "xxl": {
+        "$type": "spacing",
+        "$value": "40"
+      },
+      "xxxl": {
+        "$type": "spacing",
+        "$value": "48"
+      }
+    },
+    "sizing": {
+      "icon": {
+        "sm": {
+          "$type": "sizing",
+          "$value": "16"
+        },
+        "md": {
+          "$type": "sizing",
+          "$value": "24",
+          "$description": "기본 아이콘"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "32"
+        },
+        "xl": {
+          "$type": "sizing",
+          "$value": "48"
+        }
+      },
+      "touch-target": {
+        "min": {
+          "$type": "sizing",
+          "$value": "48",
+          "$description": "최소 터치 영역"
+        }
+      },
+      "component": {
+        "button-height": {
+          "$type": "sizing",
+          "$value": "40"
+        },
+        "appbar-height": {
+          "$type": "sizing",
+          "$value": "64"
+        },
+        "bottom-nav-height": {
+          "$type": "sizing",
+          "$value": "80"
+        },
+        "fab-normal": {
+          "$type": "sizing",
+          "$value": "56"
+        }
+      },
+      "scale": {
+        "0": {
+          "$type": "sizing",
+          "$value": "0"
+        },
+        "4": {
+          "$type": "sizing",
+          "$value": "4"
+        },
+        "8": {
+          "$type": "sizing",
+          "$value": "8"
+        },
+        "12": {
+          "$type": "sizing",
+          "$value": "12"
+        },
+        "16": {
+          "$type": "sizing",
+          "$value": "16"
+        },
+        "24": {
+          "$type": "sizing",
+          "$value": "24"
+        },
+        "32": {
+          "$type": "sizing",
+          "$value": "32"
+        },
+        "40": {
+          "$type": "sizing",
+          "$value": "40"
+        },
+        "48": {
+          "$type": "sizing",
+          "$value": "48"
+        },
+        "56": {
+          "$type": "sizing",
+          "$value": "56"
+        },
+        "64": {
+          "$type": "sizing",
+          "$value": "64"
+        }
+      }
+    },
+    "border-radius": {
+      "none": {
+        "$type": "borderRadius",
+        "$value": "0"
+      },
+      "xs": {
+        "$type": "borderRadius",
+        "$value": "4"
+      },
+      "sm": {
+        "$type": "borderRadius",
+        "$value": "8"
+      },
+      "md": {
+        "$type": "borderRadius",
+        "$value": "12"
+      },
+      "lg": {
+        "$type": "borderRadius",
+        "$value": "16"
+      },
+      "xl": {
+        "$type": "borderRadius",
+        "$value": "28"
+      },
+      "full": {
+        "$type": "borderRadius",
+        "$value": "9999"
+      }
+    },
+    "border-width": {
+      "none": {
+        "$type": "borderWidth",
+        "$value": "0"
+      },
+      "sm": {
+        "$type": "borderWidth",
+        "$value": "1",
+        "$description": "M3의 가장 기본적인 아웃라인 두께"
+      },
+      "md": {
+        "$type": "borderWidth",
+        "$value": "2",
+        "$description": "포커스/활성화 되었을 때의 두께"
+      },
+      "lg": {
+        "$type": "borderWidth",
+        "$value": "4",
+        "$description": "(선택 사항) M3 표준은 아니지만, 디자인적으로 특별히 강조할 때 사용하는 예외적 두께"
+      }
+    },
+    "opacity": {
+      "state": {
+        "hover": {
+          "$type": "opacity",
+          "$value": "8%"
+        },
+        "focus": {
+          "$type": "opacity",
+          "$value": "12%"
+        },
+        "pressed": {
+          "$type": "opacity",
+          "$value": "12%"
+        },
+        "dragged": {
+          "$type": "opacity",
+          "$value": "16%"
+        }
+      },
+      "disabled": {
+        "container": {
+          "$type": "opacity",
+          "$value": "12%"
+        },
+        "content": {
+          "$type": "opacity",
+          "$value": "38%"
+        }
+      },
+      "scrim": {
+        "$type": "opacity",
+        "$value": "32%"
+      },
+      "transparent": {
+        "$type": "opacity",
+        "$value": "0%"
+      },
+      "solid": {
+        "$type": "opacity",
+        "$value": "100%"
+      }
+    },
+    "fontWeights": {
+      "w100": {
+        "$type": "fontWeights",
+        "$value": "100",
+        "$description": "Thin"
+      },
+      "w200": {
+        "$type": "fontWeights",
+        "$value": "200",
+        "$description": "Extra Light / Ultra Light"
+      },
+      "w300": {
+        "$type": "fontWeights",
+        "$value": "300",
+        "$description": "Light"
+      },
+      "w400": {
+        "$type": "fontWeights",
+        "$value": "400",
+        "$description": "Regular / Normal (M3 본문 기본)"
+      },
+      "w500": {
+        "$type": "fontWeights",
+        "$value": "500",
+        "$description": "Medium (M3 버튼, 탭, 타이틀 기본)"
+      },
+      "w600": {
+        "$type": "fontWeights",
+        "$value": "600",
+        "$description": "Semi Bold / Demi Bold"
+      },
+      "w700": {
+        "$type": "fontWeights",
+        "$value": "700",
+        "$description": "Bold"
+      },
+      "w800": {
+        "$type": "fontWeights",
+        "$value": "800",
+        "$description": "Extra Bold / Ultra Bold"
+      },
+      "w900": {
+        "$type": "fontWeights",
+        "$value": "900",
+        "$description": "Black / Heavy"
+      }
+    },
+    "fontFamilies": {
+      "pretendard": {
+        "$type": "fontFamilies",
+        "$value": "Pretendard",
+        "$description": "주요 한글/영문 폰트"
+      },
+      "be-vietnam": {
+        "$type": "fontFamilies",
+        "$value": "Be Vietnam",
+        "$description": "보조 영문 폰트"
+      },
+      "primary": {
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies.pretendard}",
+        "$description": "앱 전반에 사용되는 기본 폰트 패밀리"
+      },
+      "secondary": {
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies.be-vietnam}",
+        "$description": "특정 영문 타이포그래피나 숫자에 사용되는 폰트 패밀리"
+      }
+    },
+    "fontSizes": {
+      "11": {
+        "$type": "fontSizes",
+        "$value": "11",
+        "$description": "Label Small"
+      },
+      "12": {
+        "$type": "fontSizes",
+        "$value": "12",
+        "$description": "Body Small / Label Medium"
+      },
+      "14": {
+        "$type": "fontSizes",
+        "$value": "14",
+        "$description": "Body Medium / Title Small / Label Large"
+      },
+      "16": {
+        "$type": "fontSizes",
+        "$value": "16",
+        "$description": "Body Large / Title Medium (가장 일반적인 본문)"
+      },
+      "22": {
+        "$type": "fontSizes",
+        "$value": "22",
+        "$description": "Title Large (주요 화면 타이틀)"
+      },
+      "24": {
+        "$type": "fontSizes",
+        "$value": "24",
+        "$description": "Headline Small"
+      },
+      "28": {
+        "$type": "fontSizes",
+        "$value": "28",
+        "$description": "Headline Medium"
+      },
+      "32": {
+        "$type": "fontSizes",
+        "$value": "32",
+        "$description": "Headline Large"
+      },
+      "36": {
+        "$type": "fontSizes",
+        "$value": "36",
+        "$description": "Display Small"
+      },
+      "45": {
+        "$type": "fontSizes",
+        "$value": "45",
+        "$description": "Display Medium"
+      },
+      "57": {
+        "$type": "fontSizes",
+        "$value": "57",
+        "$description": "Display Large (가장 거대한 폰트)"
+      }
+    },
+    "letterSpacing": {
+      "tighter": {
+        "$type": "letterSpacing",
+        "$value": "-0.25px",
+        "$description": "가장 좁은 자간 (Display Large 용)"
+      },
+      "normal": {
+        "$type": "letterSpacing",
+        "$value": "0px",
+        "$description": "기본 자간 (Headline 전체, Title Large 등 큰 텍스트용)"
+      },
+      "wide-1": {
+        "$type": "letterSpacing",
+        "$value": "0.1px",
+        "$description": "약간 넓은 자간 (Title Small, Label Large 용)"
+      },
+      "wide-2": {
+        "$type": "letterSpacing",
+        "$value": "0.15px",
+        "$description": "조금 더 넓은 자간 (Title Medium 용)"
+      },
+      "wide-3": {
+        "$type": "letterSpacing",
+        "$value": "0.25px",
+        "$description": "넓은 자간 (Body Medium 용)"
+      },
+      "wide-4": {
+        "$type": "letterSpacing",
+        "$value": "0.4px",
+        "$description": "꽤 넓은 자간 (Body Small 용)"
+      },
+      "wide-5": {
+        "$type": "letterSpacing",
+        "$value": "0.5px",
+        "$description": "가장 넓은 자간 (Body Large, Label Medium/Small 등 작고 빽빽한 텍스트용)"
+      }
+    },
+    "lineHeights": {
+      "16": {
+        "$type": "lineHeights",
+        "$value": "16",
+        "$description": "Body Small(12px), Label Medium(12px), Label Small(11px) 용"
+      },
+      "20": {
+        "$type": "lineHeights",
+        "$value": "20",
+        "$description": "Body Medium(14px), Title Small(14px), Label Large(14px) 용"
+      },
+      "24": {
+        "$type": "lineHeights",
+        "$value": "24",
+        "$description": "Body Large(16px), Title Medium(16px) 용 - 앱에서 가장 흔하게 쓰이는 본문 행간"
+      },
+      "28": {
+        "$type": "lineHeights",
+        "$value": "28",
+        "$description": "Title Large(22px) 용"
+      },
+      "32": {
+        "$type": "lineHeights",
+        "$value": "32",
+        "$description": "Headline Small(24px) 용"
+      },
+      "36": {
+        "$type": "lineHeights",
+        "$value": "36",
+        "$description": "Headline Medium(28px) 용"
+      },
+      "40": {
+        "$type": "lineHeights",
+        "$value": "40",
+        "$description": "Headline Large(32px) 용"
+      },
+      "44": {
+        "$type": "lineHeights",
+        "$value": "44",
+        "$description": "Display Small(36px) 용"
+      },
+      "52": {
+        "$type": "lineHeights",
+        "$value": "52",
+        "$description": "Display Medium(45px) 용"
+      },
+      "64": {
+        "$type": "lineHeights",
+        "$value": "64",
+        "$description": "Display Large(57px) 용"
+      }
+    },
+    "paragraphSpacing": {
+      "none": {
+        "$type": "paragraphSpacing",
+        "$value": "0",
+        "$description": "일반적인 UI 텍스트 기본값"
+      },
+      "sm": {
+        "$type": "paragraphSpacing",
+        "$value": "8",
+        "$description": "블로그 본문이나 약관 등 긴 글에서의 좁은 문단 간격"
+      },
+      "md": {
+        "$type": "paragraphSpacing",
+        "$value": "16",
+        "$description": "긴 글에서의 기본 문단 간격"
+      }
+    },
+    "paragraphIndent": {
+      "none": {
+        "$type": "paragraphIndent",
+        "$value": "0",
+        "$description": "들여쓰기 없음 (M3 기본)"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "$type": "textDecoration",
+        "$value": "none"
+      },
+      "underline": {
+        "$type": "textDecoration",
+        "$value": "underline",
+        "$description": "하이퍼링크용 밑줄"
+      },
+      "line-through": {
+        "$type": "textDecoration",
+        "$value": "line-through",
+        "$description": "취소선 (할인 전 가격 표기 등)"
+      }
+    },
+    "textCase": {
+      "none": {
+        "$type": "textCase",
+        "$value": "none",
+        "$description": "입력한 원문 그대로 유지 (M3 기본)"
+      },
+      "uppercase": {
+        "$type": "textCase",
+        "$value": "uppercase",
+        "$description": "강제 대문자 변환 (오버라인, 특정 라벨용)"
+      },
+      "capitalize": {
+        "$type": "textCase",
+        "$value": "capitalize",
+        "$description": "단어 첫 글자만 대문자"
+      }
+    },
+    "motion": {
+      "duration": {
+        "short-1": {
+          "$type": "number",
+          "$value": 50,
+          "$description": "가장 짧은 애니메이션"
+        },
+        "short-2": {
+          "$type": "number",
+          "$value": 100
+        },
+        "short-3": {
+          "$type": "number",
+          "$value": 150,
+          "$description": "작은 컴포넌트의 단순한 상태 변화"
+        },
+        "short-4": {
+          "$type": "number",
+          "$value": 200
+        },
+        "medium-1": {
+          "$type": "number",
+          "$value": 250
+        },
+        "medium-2": {
+          "$type": "number",
+          "$value": 300,
+          "$description": "중간 크기 컴포넌트의 움직임"
+        },
+        "medium-3": {
+          "$type": "number",
+          "$value": 350
+        },
+        "medium-4": {
+          "$type": "number",
+          "$value": 400,
+          "$description": "화면 전환 시 큰 영역의 확장/축소 애니메이션"
+        },
+        "long-1": {
+          "$type": "number",
+          "$value": 450
+        },
+        "long-2": {
+          "$type": "number",
+          "$value": 500,
+          "$description": "매우 크고 눈에 띄는 화면 전환"
+        },
+        "long-3": {
+          "$type": "number",
+          "$value": 550
+        },
+        "long-4": {
+          "$type": "number",
+          "$value": 600
+        },
+        "extra-long-1": {
+          "$type": "number",
+          "$value": 700
+        },
+        "extra-long-2": {
+          "$type": "number",
+          "$value": 800
+        },
+        "extra-long-3": {
+          "$type": "number",
+          "$value": 900
+        },
+        "extra-long-4": {
+          "$type": "number",
+          "$value": 1000,
+          "$description": "1초. 사용자가 확실하게 인지해야 하는 성공/실패 애니메이션 등"
+        }
+      },
+      "logic": {
+        "debounce-search": {
+          "$type": "number",
+          "$value": 300,
+          "$description": "검색어 자동완성 등 API 호출 지연용 디바운스 타임 (ms)"
+        },
+        "debounce-heavy": {
+          "$type": "number",
+          "$value": 500,
+          "$description": "무거운 API 요청이나 더블 클릭 방지용 디바운스"
+        }
+      }
+    }
+  },
+  "semantic": {
+    "color-role": {
+      "primary": {
+        "$type": "color",
+        "$value": "{primitive.blue.500}"
+      },
+      "on-primary": {
+        "$type": "color",
+        "$value": "{primitive.white}"
+      },
+      "primary-container": {
+        "$type": "color",
+        "$value": "{primitive.blue.100}"
+      },
+      "on-primary-container": {
+        "$type": "color",
+        "$value": "{primitive.blue.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{primitive.teal.500}"
+      },
+      "on-secondary": {
+        "$type": "color",
+        "$value": "{primitive.white}"
+      },
+      "secondary-container": {
+        "$type": "color",
+        "$value": "{primitive.teal.100}"
+      },
+      "on-secondary-container": {
+        "$type": "color",
+        "$value": "{primitive.teal.900}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{primitive.purple.500}"
+      },
+      "on-tertiary": {
+        "$type": "color",
+        "$value": "{primitive.white}"
+      },
+      "tertiary-container": {
+        "$type": "color",
+        "$value": "{primitive.purple.100}"
+      },
+      "on-tertiary-container": {
+        "$type": "color",
+        "$value": "{primitive.purple.900}"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{primitive.red.500}"
+      },
+      "on-error": {
+        "$type": "color",
+        "$value": "{primitive.white}"
+      },
+      "error-container": {
+        "$type": "color",
+        "$value": "{primitive.red.100}"
+      },
+      "on-error-container": {
+        "$type": "color",
+        "$value": "{primitive.red.900}"
+      },
+      "background": {
+        "$type": "color",
+        "$value": "{primitive.grey.50}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{primitive.grey.900}"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "{primitive.grey.50}"
+      },
+      "on-surface": {
+        "$type": "color",
+        "$value": "{primitive.grey.900}"
+      },
+      "surface-variant": {
+        "$type": "color",
+        "$value": "{primitive.grey.200}"
+      },
+      "on-surface-variant": {
+        "$type": "color",
+        "$value": "{primitive.grey.700}"
+      },
+      "outline": {
+        "$type": "color",
+        "$value": "{primitive.grey.500}"
+      },
+      "outline-variant": {
+        "$type": "color",
+        "$value": "{primitive.grey.300}"
+      },
+      "inverse-surface": {
+        "$type": "color",
+        "$value": "{primitive.grey.800}"
+      },
+      "inverse-on-surface": {
+        "$type": "color",
+        "$value": "{primitive.grey.50}"
+      },
+      "inverse-primary": {
+        "$type": "color",
+        "$value": "{primitive.blue.200}"
+      },
+      "shadow": {
+        "$type": "color",
+        "$value": "{primitive.black}"
+      },
+      "scrim": {
+        "$type": "color",
+        "$value": "{primitive.black}"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "border",
+        "$value": {
+          "color": "{color-role.outline}",
+          "width": "{border-width.sm}",
+          "style": "solid"
+        }
+      },
+      "variant": {
+        "$type": "border",
+        "$value": {
+          "color": "{color-role.outline-variant}",
+          "width": "{border-width.sm}",
+          "style": "solid"
+        }
+      },
+      "focused": {
+        "$type": "border",
+        "$value": {
+          "color": "{color-role.primary}",
+          "width": "{border-width.md}",
+          "style": "solid"
+        }
+      },
+      "error": {
+        "$type": "border",
+        "$value": {
+          "color": "{color-role.error}",
+          "width": "{border-width.sm}",
+          "style": "solid"
+        }
+      },
+      "error-focused": {
+        "$type": "border",
+        "$value": {
+          "color": "{color-role.error}",
+          "width": "{border-width.md}",
+          "style": "solid"
+        }
+      }
+    },
+    "boxShadow": {
+      "elevation-0": {
+        "$type": "boxShadow",
+        "$value": {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba(0, 0, 0, 0)",
+          "type": "dropShadow"
+        },
+        "$description": "그림자 없음 (예: 평면 요소, 전체 화면 배경)"
+      },
+      "elevation-1": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "1",
+            "color": "rgba(0, 0, 0, 0.15)",
+            "type": "dropShadow"
+          }
+        ],
+        "$description": "가장 낮은 높이 (예: 기본 상태의 카드 Card)"
+      },
+      "elevation-2": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "6",
+            "spread": "2",
+            "color": "rgba(0, 0, 0, 0.15)",
+            "type": "dropShadow"
+          }
+        ],
+        "$description": "조금 뜬 상태 (예: 카드 오버, 하단 네비게이션바)"
+      },
+      "elevation-3": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "3",
+            "color": "rgba(0, 0, 0, 0.15)",
+            "type": "dropShadow"
+          }
+        ],
+        "$description": "명확히 뜬 상태 (예: FAB, 사이드 네비게이션 드로어, 드롭다운 메뉴)"
+      },
+      "elevation-4": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "6",
+            "blur": "10",
+            "spread": "4",
+            "color": "rgba(0, 0, 0, 0.15)",
+            "type": "dropShadow"
+          }
+        ],
+        "$description": "높게 뜬 상태 (예: 상단 앱바 App Bar)"
+      },
+      "elevation-5": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0",
+            "color": "rgba(0, 0, 0, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "8",
+            "blur": "12",
+            "spread": "6",
+            "color": "rgba(0, 0, 0, 0.15)",
+            "type": "dropShadow"
+          }
+        ],
+        "$description": "가장 높은 상태 (예: 모달 다이얼로그 Dialog, 바텀 시트)"
+      }
+    },
+    "typography": {
+      "display-large": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.57}",
+          "lineHeight": "{lineHeights.64}",
+          "letterSpacing": "{letterSpacing.tighter}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "display-medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.45}",
+          "lineHeight": "{lineHeights.52}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "display-small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.36}",
+          "lineHeight": "{lineHeights.44}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "headline-large": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.32}",
+          "lineHeight": "{lineHeights.40}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "headline-medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.28}",
+          "lineHeight": "{lineHeights.36}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "headline-small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.24}",
+          "lineHeight": "{lineHeights.32}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "title-large": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.22}",
+          "lineHeight": "{lineHeights.28}",
+          "letterSpacing": "{letterSpacing.normal}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "title-medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w500}",
+          "fontSize": "{fontSizes.16}",
+          "lineHeight": "{lineHeights.24}",
+          "letterSpacing": "{letterSpacing.wide-2}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "title-small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w500}",
+          "fontSize": "{fontSizes.14}",
+          "lineHeight": "{lineHeights.20}",
+          "letterSpacing": "{letterSpacing.wide-1}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "body-large": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.16}",
+          "lineHeight": "{lineHeights.24}",
+          "letterSpacing": "{letterSpacing.wide-5}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "body-medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.14}",
+          "lineHeight": "{lineHeights.20}",
+          "letterSpacing": "{letterSpacing.wide-3}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "body-small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w400}",
+          "fontSize": "{fontSizes.12}",
+          "lineHeight": "{lineHeights.16}",
+          "letterSpacing": "{letterSpacing.wide-4}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "label-large": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w500}",
+          "fontSize": "{fontSizes.14}",
+          "lineHeight": "{lineHeights.20}",
+          "letterSpacing": "{letterSpacing.wide-1}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "label-medium": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w500}",
+          "fontSize": "{fontSizes.12}",
+          "lineHeight": "{lineHeights.16}",
+          "letterSpacing": "{letterSpacing.wide-5}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      },
+      "label-small": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.w500}",
+          "fontSize": "{fontSizes.11}",
+          "lineHeight": "{lineHeights.16}",
+          "letterSpacing": "{letterSpacing.wide-5}",
+          "paragraphSpacing": "{paragraphSpacing.none}",
+          "paragraphIndent": "{paragraphIndent.none}",
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
+        }
+      }
+    },
+    "logic": {
+      "max-lines": {
+        "single": {
+          "$type": "number",
+          "$value": 1,
+          "$description": "한 줄 표시"
+        },
+        "card-body": {
+          "$type": "number",
+          "$value": 2,
+          "$description": "카드 컴포넌트 본문 최대 두 줄"
+        },
+        "expanded": {
+          "$type": "number",
+          "$value": 999,
+          "$description": "제한 없이 모두 표시"
+        }
+      },
+      "max-length": {
+        "nickname": {
+          "$type": "number",
+          "$value": 12,
+          "$description": "닉네임 최대 글자 수"
+        }
+      }
+    },
+    "grid": {
+      "columns": {
+        "mobile": {
+          "$type": "number",
+          "$value": 4
+        },
+        "tablet": {
+          "$type": "number",
+          "$value": 8
+        },
+        "desktop": {
+          "$type": "number",
+          "$value": 12
+        }
+      }
+    },
+    "z-index": {
+      "dropdown": {
+        "$type": "number",
+        "$value": 100
+      },
+      "sticky": {
+        "$type": "number",
+        "$value": 500
+      },
+      "modal": {
+        "$type": "number",
+        "$value": 1000
+      },
+      "toast": {
+        "$type": "number",
+        "$value": 9999
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "semantic"
+    ]
+  }
+}
